@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 MongoDB Driver for Delphi/FreePascal
 -------------------------
 
+本人在原有地址上，有加修改，增加了条件语句
+
+原始地址：
 https://github.com/fabriciocolombo/mongo4delphi
 
 A mongodb driver for Delphi/FreePascal in intermediary stage with a friendly API based on java driver.
