@@ -69,7 +69,3 @@ Then BSONTypes.ps provide the classes what represent documents or value types:
 								   
 =======
 #MongoDB_Driver_for_Delphi
->>>>>>> 7551dc27e39d524aa321537a97498fe5cb5b73aa
-=======
-#MongoDBDrivers
->>>>>>> 9494e42f48808290f5c918cbcf3b4aab9b9d4358
